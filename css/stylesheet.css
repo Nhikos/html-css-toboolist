@@ -21,7 +21,7 @@
 }
 
 body {
-    background-color: grey;
+    background-color: lightgrey;
 }
 
 h1 {
@@ -108,7 +108,7 @@ h1 {
     
 }
 
-.tasks {
+/* .tasks {
     color: red;
     font-size: 2;
-}
+} */
