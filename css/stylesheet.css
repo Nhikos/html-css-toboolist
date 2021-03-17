@@ -37,11 +37,12 @@ body {
 .container {
     background-color: white;
     width: 600px;
+    height: 800px;
     vertical-align: middle;
-    line-height: 50px;
+    line-height: 45px;
     margin: 30px 10% 0px;
     border-bottom-width: 3px;
-    padding: 0px 35px;
+    border-radius: 5px;
     /*
     padding-top: 11px;
     padding-bottom: 9px;
@@ -58,8 +59,15 @@ body {
     border-radius: 5px;
     border: 1px solid #000;
     line-height: 24px;
+    text-decoration: none;
 }
 
+#buttons {
+    padding: 0px 35px;
+    height: 45px;
+    line-height: 45px;
+    border-bottom: 2px solid lightgrey;
+}
 
 
 /* .task_button {
